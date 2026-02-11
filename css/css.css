@@ -98,3 +98,10 @@ button[type="reset"]:hover {
   background-color: orangered; /* Para o botão de Limpar */
   color: white;
 }
+input[type="tel"]{
+    margin-bottom: 0;
+}
+small{
+    margin-bottom: 20px;
+    display: inline-block;
+}
